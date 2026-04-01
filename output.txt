@@ -1,0 +1,86 @@
+Total patchsets: 406
+Reviewed: 343 (84.5%)
+With findings: 252 (73.5% of reviewed)
+Clean (no findings): 91 (26.5% of reviewed)
+Reviews analyzed in detail: 204 of 252
+
+API-reported findings: 1316 total -- 268 low, 346 medium, 562 high, 140 critical
+Average findings per review (API): 5.2
+
+================================================================================
+CONTENT BREAKDOWN (204 reviews with findings)
+================================================================================
+Quoted diff:     231,525 chars (41.4%)
+Commentary:      247,752 chars (44.3%) = 35,332 words
+Headers:          79,428 chars (14.2%)
+
+Per-review averages:
+  Total:      2,739 chars / 377 words (incl quoted diff)
+  Quoted:     1,135 chars
+  Commentary: 1,214 chars / 173 words
+
+Per-review distributions (p25 / median / p75):
+  Total chars:        1,947 / 2,578 / 3,320
+  Total words:        253 / 350 / 468
+  Commentary words:   109 / 161 / 222
+  Commentary as % of total: 36% / 43% / 52%
+
+================================================================================
+FINDING CLASSIFICATION
+================================================================================
+Total findings extracted: 466
+
+  cat1_patch: 336 (72.1%)
+    Commentary: 522±315 chars, 74.1±41.9 words, 11.2±7.5 lines
+    Full block: 918±424 chars, 22.5±10.4 lines, 43% quoted
+
+  cat2_interaction: 54 (11.6%)
+    Commentary: 734±337 chars, 103.1±41.7 words, 16.1±8.5 lines
+    Full block: 1172±511 chars, 28.3±13.7 lines, 35% quoted
+
+  cat3_preexisting: 40 (8.6%)
+    Commentary: 421±387 chars, 62.1±52.8 words, 9.1±8.8 lines
+    Full block: 779±530 chars, 18.5±13.5 lines, 49% quoted
+
+  unclassified: 36 (7.7%)
+    Commentary: 335±165 chars, 47.2±23.3 words, 7.1±3.2 lines
+    Full block: 683±302 chars, 16.4±7.1 lines, 47% quoted
+
+  ALL: 466 (100%)
+    Commentary: 524±328 chars, 74.3±43.6 words, 11.3±7.8 lines
+    Full block: 917±450 chars, 22.4±11.2 lines, 43% quoted
+    Quoted diff avg: 393 chars
+
+================================================================================
+CAT3 PER-REVIEW IMPACT
+================================================================================
+Reviews with cat3: 39 of 204 (19.1%)
+  Review lines (with cat3):    78±34
+  Review lines (without cat3): 59±37
+  Cat3 adds:                   19±15 lines
+  Cat3 as % of review:         28±22%
+  Cat3 findings per review:    1.0±0.2
+
+  Top cat3 reviews (by cat3 % of total review lines):
+    Patchset  Review lines  Cat3 lines   Cat3 %
+        5338            67          55      82%
+        4649            65          53      82%
+        3503           100          75      75%
+         639            44          28      64%
+        5055            51          31      61%
+        5367            44          25      57%
+        5041            37          16      43%
+        4411            34          14      41%
+        2144            72          27      38%
+         147            71          26      37%
+
+================================================================================
+PER-REVIEW WORD BREAKDOWN BY CATEGORY
+================================================================================
+  cat1_patch: 122 words/review (71.8%)
+  cat2_interaction: 27 words/review (16.1%)
+  cat3_preexisting: 12 words/review (7.2%)
+  unclassified: 8 words/review (4.9%)
+  Total: 170 words/review
+
+Results saved to cache/analysis_results.json

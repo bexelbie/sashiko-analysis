@@ -1,0 +1,2974 @@
+{
+  "overview": {
+    "total_on_list": 406,
+    "reviewed": 343,
+    "with_findings": 252,
+    "analyzed": 204
+  },
+  "content_breakdown": {
+    "total_chars": 558705,
+    "quoted_code_chars": 231525,
+    "commentary_chars": 247752,
+    "commentary_words": 35332
+  },
+  "classification": {
+    "cat3_preexisting": 40,
+    "cat1_patch": 336,
+    "cat2_interaction": 54,
+    "unclassified": 36
+  },
+  "per_review": [
+    {
+      "patchset_id": 5717,
+      "total_chars": 2243,
+      "total_lines": 48,
+      "quoted_chars": 1194,
+      "commentary_chars": 645,
+      "commentary_words": 94,
+      "findings": 3,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 5,
+      "total_full_lines": 24
+    },
+    {
+      "patchset_id": 5667,
+      "total_chars": 2451,
+      "total_lines": 85,
+      "quoted_chars": 1589,
+      "commentary_chars": 524,
+      "commentary_words": 95,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 4
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 64
+    },
+    {
+      "patchset_id": 5618,
+      "total_chars": 1271,
+      "total_lines": 36,
+      "quoted_chars": 449,
+      "commentary_chars": 429,
+      "commentary_words": 61,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 23
+    },
+    {
+      "patchset_id": 5550,
+      "total_chars": 3497,
+      "total_lines": 100,
+      "quoted_chars": 798,
+      "commentary_chars": 2409,
+      "commentary_words": 335,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 3,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 64
+    },
+    {
+      "patchset_id": 5503,
+      "total_chars": 1840,
+      "total_lines": 50,
+      "quoted_chars": 644,
+      "commentary_chars": 929,
+      "commentary_words": 122,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 35
+    },
+    {
+      "patchset_id": 5496,
+      "total_chars": 2747,
+      "total_lines": 69,
+      "quoted_chars": 1093,
+      "commentary_chars": 1358,
+      "commentary_words": 183,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 1,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 55
+    },
+    {
+      "patchset_id": 5417,
+      "total_chars": 1954,
+      "total_lines": 48,
+      "quoted_chars": 1037,
+      "commentary_chars": 609,
+      "commentary_words": 94,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 19
+    },
+    {
+      "patchset_id": 5400,
+      "total_chars": 2372,
+      "total_lines": 71,
+      "quoted_chars": 861,
+      "commentary_chars": 1079,
+      "commentary_words": 169,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 51
+    },
+    {
+      "patchset_id": 5380,
+      "total_chars": 2436,
+      "total_lines": 65,
+      "quoted_chars": 427,
+      "commentary_chars": 1741,
+      "commentary_words": 242,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 50
+    },
+    {
+      "patchset_id": 5367,
+      "total_chars": 1637,
+      "total_lines": 44,
+      "quoted_chars": 361,
+      "commentary_chars": 907,
+      "commentary_words": 128,
+      "findings": 1,
+      "categories": {
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 25,
+      "total_full_lines": 25
+    },
+    {
+      "patchset_id": 5365,
+      "total_chars": 1647,
+      "total_lines": 41,
+      "quoted_chars": 535,
+      "commentary_chars": 696,
+      "commentary_words": 99,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 25
+    },
+    {
+      "patchset_id": 5358,
+      "total_chars": 4515,
+      "total_lines": 105,
+      "quoted_chars": 2443,
+      "commentary_chars": 1298,
+      "commentary_words": 178,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 79
+    },
+    {
+      "patchset_id": 5338,
+      "total_chars": 2788,
+      "total_lines": 67,
+      "quoted_chars": 479,
+      "commentary_chars": 1916,
+      "commentary_words": 254,
+      "findings": 1,
+      "categories": {
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 55,
+      "total_full_lines": 55
+    },
+    {
+      "patchset_id": 5334,
+      "total_chars": 1736,
+      "total_lines": 48,
+      "quoted_chars": 390,
+      "commentary_chars": 1028,
+      "commentary_words": 147,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 36
+    },
+    {
+      "patchset_id": 5321,
+      "total_chars": 1581,
+      "total_lines": 38,
+      "quoted_chars": 628,
+      "commentary_chars": 610,
+      "commentary_words": 94,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 23
+    },
+    {
+      "patchset_id": 5314,
+      "total_chars": 1284,
+      "total_lines": 37,
+      "quoted_chars": 421,
+      "commentary_chars": 587,
+      "commentary_words": 98,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 20
+    },
+    {
+      "patchset_id": 5289,
+      "total_chars": 3737,
+      "total_lines": 106,
+      "quoted_chars": 1363,
+      "commentary_chars": 1944,
+      "commentary_words": 266,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 75
+    },
+    {
+      "patchset_id": 5265,
+      "total_chars": 2036,
+      "total_lines": 58,
+      "quoted_chars": 998,
+      "commentary_chars": 631,
+      "commentary_words": 94,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 34
+    },
+    {
+      "patchset_id": 5247,
+      "total_chars": 2790,
+      "total_lines": 77,
+      "quoted_chars": 1252,
+      "commentary_chars": 1176,
+      "commentary_words": 169,
+      "findings": 2,
+      "categories": {
+        "unclassified": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 64
+    },
+    {
+      "patchset_id": 5217,
+      "total_chars": 1909,
+      "total_lines": 54,
+      "quoted_chars": 606,
+      "commentary_chars": 976,
+      "commentary_words": 143,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 35
+    },
+    {
+      "patchset_id": 5187,
+      "total_chars": 1495,
+      "total_lines": 43,
+      "quoted_chars": 585,
+      "commentary_chars": 552,
+      "commentary_words": 84,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 26
+    },
+    {
+      "patchset_id": 5156,
+      "total_chars": 2031,
+      "total_lines": 55,
+      "quoted_chars": 1102,
+      "commentary_chars": 534,
+      "commentary_words": 71,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 23
+    },
+    {
+      "patchset_id": 5140,
+      "total_chars": 2925,
+      "total_lines": 107,
+      "quoted_chars": 1718,
+      "commentary_chars": 798,
+      "commentary_words": 120,
+      "findings": 3,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 19,
+      "total_full_lines": 58
+    },
+    {
+      "patchset_id": 5111,
+      "total_chars": 2870,
+      "total_lines": 105,
+      "quoted_chars": 1292,
+      "commentary_chars": 1204,
+      "commentary_words": 180,
+      "findings": 3,
+      "categories": {
+        "cat2_interaction": 2,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 62
+    },
+    {
+      "patchset_id": 5088,
+      "total_chars": 2370,
+      "total_lines": 66,
+      "quoted_chars": 1149,
+      "commentary_chars": 755,
+      "commentary_words": 114,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 31
+    },
+    {
+      "patchset_id": 5079,
+      "total_chars": 2813,
+      "total_lines": 84,
+      "quoted_chars": 1247,
+      "commentary_chars": 1192,
+      "commentary_words": 185,
+      "findings": 3,
+      "categories": {
+        "cat2_interaction": 2,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 40
+    },
+    {
+      "patchset_id": 5073,
+      "total_chars": 2984,
+      "total_lines": 93,
+      "quoted_chars": 1355,
+      "commentary_chars": 1075,
+      "commentary_words": 154,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 62
+    },
+    {
+      "patchset_id": 5055,
+      "total_chars": 2021,
+      "total_lines": 51,
+      "quoted_chars": 434,
+      "commentary_chars": 1142,
+      "commentary_words": 159,
+      "findings": 1,
+      "categories": {
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 31,
+      "total_full_lines": 31
+    },
+    {
+      "patchset_id": 5041,
+      "total_chars": 1508,
+      "total_lines": 37,
+      "quoted_chars": 551,
+      "commentary_chars": 558,
+      "commentary_words": 91,
+      "findings": 1,
+      "categories": {
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 16,
+      "total_full_lines": 16
+    },
+    {
+      "patchset_id": 5008,
+      "total_chars": 2821,
+      "total_lines": 77,
+      "quoted_chars": 1372,
+      "commentary_chars": 1064,
+      "commentary_words": 161,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 55
+    },
+    {
+      "patchset_id": 4928,
+      "total_chars": 1726,
+      "total_lines": 45,
+      "quoted_chars": 704,
+      "commentary_chars": 720,
+      "commentary_words": 105,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 25
+    },
+    {
+      "patchset_id": 4890,
+      "total_chars": 2361,
+      "total_lines": 67,
+      "quoted_chars": 836,
+      "commentary_chars": 1067,
+      "commentary_words": 157,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 45
+    },
+    {
+      "patchset_id": 4857,
+      "total_chars": 1947,
+      "total_lines": 49,
+      "quoted_chars": 446,
+      "commentary_chars": 1152,
+      "commentary_words": 174,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 29
+    },
+    {
+      "patchset_id": 4835,
+      "total_chars": 2280,
+      "total_lines": 60,
+      "quoted_chars": 934,
+      "commentary_chars": 891,
+      "commentary_words": 128,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 41
+    },
+    {
+      "patchset_id": 4798,
+      "total_chars": 2525,
+      "total_lines": 68,
+      "quoted_chars": 1164,
+      "commentary_chars": 953,
+      "commentary_words": 143,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 47
+    },
+    {
+      "patchset_id": 4728,
+      "total_chars": 1684,
+      "total_lines": 36,
+      "quoted_chars": 704,
+      "commentary_chars": 480,
+      "commentary_words": 72,
+      "findings": 1,
+      "categories": {
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 21
+    },
+    {
+      "patchset_id": 4675,
+      "total_chars": 3805,
+      "total_lines": 125,
+      "quoted_chars": 1240,
+      "commentary_chars": 2035,
+      "commentary_words": 293,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 3,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 96
+    },
+    {
+      "patchset_id": 4649,
+      "total_chars": 2233,
+      "total_lines": 65,
+      "quoted_chars": 598,
+      "commentary_chars": 1251,
+      "commentary_words": 180,
+      "findings": 1,
+      "categories": {
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 53,
+      "total_full_lines": 53
+    },
+    {
+      "patchset_id": 4511,
+      "total_chars": 2069,
+      "total_lines": 50,
+      "quoted_chars": 596,
+      "commentary_chars": 1160,
+      "commentary_words": 172,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 1,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 33
+    },
+    {
+      "patchset_id": 4605,
+      "total_chars": 1932,
+      "total_lines": 52,
+      "quoted_chars": 518,
+      "commentary_chars": 1011,
+      "commentary_words": 132,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 28
+    },
+    {
+      "patchset_id": 4586,
+      "total_chars": 1772,
+      "total_lines": 41,
+      "quoted_chars": 741,
+      "commentary_chars": 554,
+      "commentary_words": 72,
+      "findings": 2,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 12,
+      "total_full_lines": 23
+    },
+    {
+      "patchset_id": 4580,
+      "total_chars": 1728,
+      "total_lines": 44,
+      "quoted_chars": 534,
+      "commentary_chars": 747,
+      "commentary_words": 109,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 26
+    },
+    {
+      "patchset_id": 4519,
+      "total_chars": 3798,
+      "total_lines": 112,
+      "quoted_chars": 1321,
+      "commentary_chars": 2045,
+      "commentary_words": 284,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 85
+    },
+    {
+      "patchset_id": 4485,
+      "total_chars": 2081,
+      "total_lines": 56,
+      "quoted_chars": 693,
+      "commentary_chars": 959,
+      "commentary_words": 144,
+      "findings": 2,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 13,
+      "total_full_lines": 35
+    },
+    {
+      "patchset_id": 4428,
+      "total_chars": 3218,
+      "total_lines": 86,
+      "quoted_chars": 1351,
+      "commentary_chars": 1464,
+      "commentary_words": 219,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 53
+    },
+    {
+      "patchset_id": 4411,
+      "total_chars": 1332,
+      "total_lines": 34,
+      "quoted_chars": 369,
+      "commentary_chars": 451,
+      "commentary_words": 68,
+      "findings": 1,
+      "categories": {
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 14,
+      "total_full_lines": 14
+    },
+    {
+      "patchset_id": 4346,
+      "total_chars": 3197,
+      "total_lines": 99,
+      "quoted_chars": 1125,
+      "commentary_chars": 1730,
+      "commentary_words": 221,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 71
+    },
+    {
+      "patchset_id": 4338,
+      "total_chars": 2681,
+      "total_lines": 71,
+      "quoted_chars": 479,
+      "commentary_chars": 1805,
+      "commentary_words": 253,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 54
+    },
+    {
+      "patchset_id": 4333,
+      "total_chars": 1797,
+      "total_lines": 42,
+      "quoted_chars": 582,
+      "commentary_chars": 734,
+      "commentary_words": 97,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 24
+    },
+    {
+      "patchset_id": 4322,
+      "total_chars": 2973,
+      "total_lines": 92,
+      "quoted_chars": 1396,
+      "commentary_chars": 1239,
+      "commentary_words": 193,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 69
+    },
+    {
+      "patchset_id": 4287,
+      "total_chars": 2687,
+      "total_lines": 64,
+      "quoted_chars": 1172,
+      "commentary_chars": 1167,
+      "commentary_words": 158,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 52
+    },
+    {
+      "patchset_id": 4285,
+      "total_chars": 1846,
+      "total_lines": 50,
+      "quoted_chars": 682,
+      "commentary_chars": 652,
+      "commentary_words": 86,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 24
+    },
+    {
+      "patchset_id": 4232,
+      "total_chars": 4199,
+      "total_lines": 124,
+      "quoted_chars": 2261,
+      "commentary_chars": 1455,
+      "commentary_words": 204,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 79
+    },
+    {
+      "patchset_id": 4195,
+      "total_chars": 4533,
+      "total_lines": 116,
+      "quoted_chars": 2730,
+      "commentary_chars": 1443,
+      "commentary_words": 232,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 62
+    },
+    {
+      "patchset_id": 4185,
+      "total_chars": 1131,
+      "total_lines": 36,
+      "quoted_chars": 467,
+      "commentary_chars": 253,
+      "commentary_words": 38,
+      "findings": 1,
+      "categories": {
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 10,
+      "total_full_lines": 10
+    },
+    {
+      "patchset_id": 4184,
+      "total_chars": 2225,
+      "total_lines": 83,
+      "quoted_chars": 1265,
+      "commentary_chars": 460,
+      "commentary_words": 78,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 17
+    },
+    {
+      "patchset_id": 4174,
+      "total_chars": 3283,
+      "total_lines": 82,
+      "quoted_chars": 822,
+      "commentary_chars": 2081,
+      "commentary_words": 291,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 61
+    },
+    {
+      "patchset_id": 4155,
+      "total_chars": 2535,
+      "total_lines": 74,
+      "quoted_chars": 982,
+      "commentary_chars": 1161,
+      "commentary_words": 181,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 3,
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 7,
+      "total_full_lines": 56
+    },
+    {
+      "patchset_id": 4121,
+      "total_chars": 1888,
+      "total_lines": 50,
+      "quoted_chars": 415,
+      "commentary_chars": 1016,
+      "commentary_words": 145,
+      "findings": 1,
+      "categories": {
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 29
+    },
+    {
+      "patchset_id": 4119,
+      "total_chars": 1882,
+      "total_lines": 53,
+      "quoted_chars": 515,
+      "commentary_chars": 907,
+      "commentary_words": 133,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 35
+    },
+    {
+      "patchset_id": 4006,
+      "total_chars": 3580,
+      "total_lines": 96,
+      "quoted_chars": 1358,
+      "commentary_chars": 1838,
+      "commentary_words": 259,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 75
+    },
+    {
+      "patchset_id": 3978,
+      "total_chars": 3266,
+      "total_lines": 91,
+      "quoted_chars": 1618,
+      "commentary_chars": 1303,
+      "commentary_words": 185,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 65
+    },
+    {
+      "patchset_id": 3951,
+      "total_chars": 4269,
+      "total_lines": 116,
+      "quoted_chars": 1738,
+      "commentary_chars": 2106,
+      "commentary_words": 315,
+      "findings": 6,
+      "categories": {
+        "cat2_interaction": 2,
+        "cat1_patch": 4
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 79
+    },
+    {
+      "patchset_id": 3903,
+      "total_chars": 4013,
+      "total_lines": 127,
+      "quoted_chars": 2447,
+      "commentary_chars": 1332,
+      "commentary_words": 167,
+      "findings": 4,
+      "categories": {
+        "unclassified": 1,
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 90
+    },
+    {
+      "patchset_id": 3867,
+      "total_chars": 1970,
+      "total_lines": 52,
+      "quoted_chars": 413,
+      "commentary_chars": 1138,
+      "commentary_words": 144,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 38
+    },
+    {
+      "patchset_id": 3863,
+      "total_chars": 4717,
+      "total_lines": 127,
+      "quoted_chars": 2528,
+      "commentary_chars": 1775,
+      "commentary_words": 292,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 104
+    },
+    {
+      "patchset_id": 3847,
+      "total_chars": 2660,
+      "total_lines": 81,
+      "quoted_chars": 1026,
+      "commentary_chars": 1258,
+      "commentary_words": 166,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 55
+    },
+    {
+      "patchset_id": 3841,
+      "total_chars": 3549,
+      "total_lines": 112,
+      "quoted_chars": 1758,
+      "commentary_chars": 1401,
+      "commentary_words": 202,
+      "findings": 4,
+      "categories": {
+        "unclassified": 1,
+        "cat3_preexisting": 1,
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 15,
+      "total_full_lines": 80
+    },
+    {
+      "patchset_id": 3837,
+      "total_chars": 1837,
+      "total_lines": 43,
+      "quoted_chars": 573,
+      "commentary_chars": 906,
+      "commentary_words": 131,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 27
+    },
+    {
+      "patchset_id": 3823,
+      "total_chars": 2810,
+      "total_lines": 75,
+      "quoted_chars": 1032,
+      "commentary_chars": 1356,
+      "commentary_words": 177,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 51
+    },
+    {
+      "patchset_id": 3789,
+      "total_chars": 1388,
+      "total_lines": 45,
+      "quoted_chars": 682,
+      "commentary_chars": 368,
+      "commentary_words": 62,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 17
+    },
+    {
+      "patchset_id": 3753,
+      "total_chars": 1667,
+      "total_lines": 43,
+      "quoted_chars": 561,
+      "commentary_chars": 709,
+      "commentary_words": 116,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 30
+    },
+    {
+      "patchset_id": 3694,
+      "total_chars": 2599,
+      "total_lines": 67,
+      "quoted_chars": 761,
+      "commentary_chars": 1450,
+      "commentary_words": 211,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 50
+    },
+    {
+      "patchset_id": 3651,
+      "total_chars": 6134,
+      "total_lines": 189,
+      "quoted_chars": 3244,
+      "commentary_chars": 2514,
+      "commentary_words": 356,
+      "findings": 6,
+      "categories": {
+        "unclassified": 1,
+        "cat1_patch": 4,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 133
+    },
+    {
+      "patchset_id": 3634,
+      "total_chars": 2303,
+      "total_lines": 64,
+      "quoted_chars": 897,
+      "commentary_chars": 1076,
+      "commentary_words": 161,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 1,
+        "cat3_preexisting": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 14,
+      "total_full_lines": 48
+    },
+    {
+      "patchset_id": 3632,
+      "total_chars": 4021,
+      "total_lines": 102,
+      "quoted_chars": 1487,
+      "commentary_chars": 2100,
+      "commentary_words": 272,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 77
+    },
+    {
+      "patchset_id": 3568,
+      "total_chars": 2543,
+      "total_lines": 62,
+      "quoted_chars": 922,
+      "commentary_chars": 1232,
+      "commentary_words": 174,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 33
+    },
+    {
+      "patchset_id": 3561,
+      "total_chars": 3437,
+      "total_lines": 86,
+      "quoted_chars": 1016,
+      "commentary_chars": 2028,
+      "commentary_words": 284,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 72
+    },
+    {
+      "patchset_id": 3527,
+      "total_chars": 2470,
+      "total_lines": 72,
+      "quoted_chars": 847,
+      "commentary_chars": 1232,
+      "commentary_words": 190,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 39
+    },
+    {
+      "patchset_id": 3507,
+      "total_chars": 4358,
+      "total_lines": 113,
+      "quoted_chars": 2019,
+      "commentary_chars": 1982,
+      "commentary_words": 327,
+      "findings": 5,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 3,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 35,
+      "total_full_lines": 93
+    },
+    {
+      "patchset_id": 3503,
+      "total_chars": 3693,
+      "total_lines": 100,
+      "quoted_chars": 2415,
+      "commentary_chars": 893,
+      "commentary_words": 138,
+      "findings": 2,
+      "categories": {
+        "cat3_preexisting": 2
+      },
+      "cat3_full_lines": 75,
+      "total_full_lines": 75
+    },
+    {
+      "patchset_id": 3487,
+      "total_chars": 6266,
+      "total_lines": 181,
+      "quoted_chars": 2596,
+      "commentary_chars": 3121,
+      "commentary_words": 441,
+      "findings": 7,
+      "categories": {
+        "cat1_patch": 5,
+        "cat2_interaction": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 151
+    },
+    {
+      "patchset_id": 3483,
+      "total_chars": 2018,
+      "total_lines": 58,
+      "quoted_chars": 931,
+      "commentary_chars": 713,
+      "commentary_words": 111,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 44
+    },
+    {
+      "patchset_id": 3418,
+      "total_chars": 3292,
+      "total_lines": 113,
+      "quoted_chars": 1611,
+      "commentary_chars": 1205,
+      "commentary_words": 149,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 67
+    },
+    {
+      "patchset_id": 3412,
+      "total_chars": 1692,
+      "total_lines": 60,
+      "quoted_chars": 529,
+      "commentary_chars": 886,
+      "commentary_words": 107,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 43
+    },
+    {
+      "patchset_id": 3237,
+      "total_chars": 2578,
+      "total_lines": 63,
+      "quoted_chars": 954,
+      "commentary_chars": 1124,
+      "commentary_words": 141,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 47
+    },
+    {
+      "patchset_id": 3176,
+      "total_chars": 1974,
+      "total_lines": 63,
+      "quoted_chars": 966,
+      "commentary_chars": 680,
+      "commentary_words": 106,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 26
+    },
+    {
+      "patchset_id": 3128,
+      "total_chars": 1225,
+      "total_lines": 38,
+      "quoted_chars": 499,
+      "commentary_chars": 454,
+      "commentary_words": 72,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 28
+    },
+    {
+      "patchset_id": 3096,
+      "total_chars": 3438,
+      "total_lines": 94,
+      "quoted_chars": 1281,
+      "commentary_chars": 1756,
+      "commentary_words": 252,
+      "findings": 3,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 63
+    },
+    {
+      "patchset_id": 3078,
+      "total_chars": 2616,
+      "total_lines": 66,
+      "quoted_chars": 817,
+      "commentary_chars": 1407,
+      "commentary_words": 223,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 45
+    },
+    {
+      "patchset_id": 2942,
+      "total_chars": 1465,
+      "total_lines": 40,
+      "quoted_chars": 535,
+      "commentary_chars": 623,
+      "commentary_words": 99,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 19
+    },
+    {
+      "patchset_id": 2924,
+      "total_chars": 2859,
+      "total_lines": 89,
+      "quoted_chars": 1903,
+      "commentary_chars": 576,
+      "commentary_words": 93,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 42
+    },
+    {
+      "patchset_id": 2867,
+      "total_chars": 3801,
+      "total_lines": 111,
+      "quoted_chars": 2150,
+      "commentary_chars": 1352,
+      "commentary_words": 190,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 93
+    },
+    {
+      "patchset_id": 2858,
+      "total_chars": 3195,
+      "total_lines": 93,
+      "quoted_chars": 1444,
+      "commentary_chars": 1380,
+      "commentary_words": 201,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 54
+    },
+    {
+      "patchset_id": 2855,
+      "total_chars": 1206,
+      "total_lines": 33,
+      "quoted_chars": 623,
+      "commentary_chars": 335,
+      "commentary_words": 56,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 16
+    },
+    {
+      "patchset_id": 2838,
+      "total_chars": 1713,
+      "total_lines": 43,
+      "quoted_chars": 215,
+      "commentary_chars": 1143,
+      "commentary_words": 130,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 31
+    },
+    {
+      "patchset_id": 2829,
+      "total_chars": 2979,
+      "total_lines": 92,
+      "quoted_chars": 1646,
+      "commentary_chars": 821,
+      "commentary_words": 120,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 45
+    },
+    {
+      "patchset_id": 2825,
+      "total_chars": 2689,
+      "total_lines": 78,
+      "quoted_chars": 1248,
+      "commentary_chars": 1043,
+      "commentary_words": 165,
+      "findings": 5,
+      "categories": {
+        "cat1_patch": 4,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 39
+    },
+    {
+      "patchset_id": 2790,
+      "total_chars": 1213,
+      "total_lines": 33,
+      "quoted_chars": 603,
+      "commentary_chars": 193,
+      "commentary_words": 33,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 18
+    },
+    {
+      "patchset_id": 2789,
+      "total_chars": 1601,
+      "total_lines": 48,
+      "quoted_chars": 869,
+      "commentary_chars": 300,
+      "commentary_words": 47,
+      "findings": 2,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 10,
+      "total_full_lines": 32
+    },
+    {
+      "patchset_id": 2680,
+      "total_chars": 2447,
+      "total_lines": 73,
+      "quoted_chars": 1396,
+      "commentary_chars": 731,
+      "commentary_words": 112,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 39
+    },
+    {
+      "patchset_id": 2677,
+      "total_chars": 1975,
+      "total_lines": 43,
+      "quoted_chars": 571,
+      "commentary_chars": 1111,
+      "commentary_words": 152,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 26
+    },
+    {
+      "patchset_id": 2671,
+      "total_chars": 6628,
+      "total_lines": 184,
+      "quoted_chars": 3477,
+      "commentary_chars": 2821,
+      "commentary_words": 420,
+      "findings": 7,
+      "categories": {
+        "cat1_patch": 7
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 110
+    },
+    {
+      "patchset_id": 2665,
+      "total_chars": 2572,
+      "total_lines": 56,
+      "quoted_chars": 708,
+      "commentary_chars": 1390,
+      "commentary_words": 201,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 42
+    },
+    {
+      "patchset_id": 2556,
+      "total_chars": 2772,
+      "total_lines": 89,
+      "quoted_chars": 1318,
+      "commentary_chars": 965,
+      "commentary_words": 150,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 61
+    },
+    {
+      "patchset_id": 2538,
+      "total_chars": 3307,
+      "total_lines": 126,
+      "quoted_chars": 1582,
+      "commentary_chars": 1286,
+      "commentary_words": 185,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 66
+    },
+    {
+      "patchset_id": 2511,
+      "total_chars": 2255,
+      "total_lines": 65,
+      "quoted_chars": 877,
+      "commentary_chars": 919,
+      "commentary_words": 120,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 38
+    },
+    {
+      "patchset_id": 2500,
+      "total_chars": 2616,
+      "total_lines": 74,
+      "quoted_chars": 667,
+      "commentary_chars": 1510,
+      "commentary_words": 201,
+      "findings": 2,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 25,
+      "total_full_lines": 51
+    },
+    {
+      "patchset_id": 2493,
+      "total_chars": 1598,
+      "total_lines": 46,
+      "quoted_chars": 822,
+      "commentary_chars": 410,
+      "commentary_words": 77,
+      "findings": 2,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 2,
+      "total_full_lines": 14
+    },
+    {
+      "patchset_id": 2486,
+      "total_chars": 1873,
+      "total_lines": 56,
+      "quoted_chars": 802,
+      "commentary_chars": 668,
+      "commentary_words": 88,
+      "findings": 2,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 15,
+      "total_full_lines": 34
+    },
+    {
+      "patchset_id": 2450,
+      "total_chars": 2350,
+      "total_lines": 64,
+      "quoted_chars": 705,
+      "commentary_chars": 1331,
+      "commentary_words": 176,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 44
+    },
+    {
+      "patchset_id": 2437,
+      "total_chars": 1377,
+      "total_lines": 36,
+      "quoted_chars": 545,
+      "commentary_chars": 489,
+      "commentary_words": 72,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 21
+    },
+    {
+      "patchset_id": 2420,
+      "total_chars": 3499,
+      "total_lines": 96,
+      "quoted_chars": 1706,
+      "commentary_chars": 1400,
+      "commentary_words": 211,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 59
+    },
+    {
+      "patchset_id": 2386,
+      "total_chars": 2719,
+      "total_lines": 73,
+      "quoted_chars": 1098,
+      "commentary_chars": 1176,
+      "commentary_words": 182,
+      "findings": 4,
+      "categories": {
+        "unclassified": 2,
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 53
+    },
+    {
+      "patchset_id": 2380,
+      "total_chars": 2800,
+      "total_lines": 79,
+      "quoted_chars": 564,
+      "commentary_chars": 1661,
+      "commentary_words": 208,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 60
+    },
+    {
+      "patchset_id": 2365,
+      "total_chars": 5487,
+      "total_lines": 160,
+      "quoted_chars": 3171,
+      "commentary_chars": 2051,
+      "commentary_words": 290,
+      "findings": 6,
+      "categories": {
+        "cat1_patch": 5,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 130
+    },
+    {
+      "patchset_id": 2358,
+      "total_chars": 3266,
+      "total_lines": 100,
+      "quoted_chars": 1362,
+      "commentary_chars": 1504,
+      "commentary_words": 182,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 23,
+      "total_full_lines": 76
+    },
+    {
+      "patchset_id": 2352,
+      "total_chars": 4454,
+      "total_lines": 153,
+      "quoted_chars": 2300,
+      "commentary_chars": 1644,
+      "commentary_words": 241,
+      "findings": 5,
+      "categories": {
+        "cat1_patch": 5
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 104
+    },
+    {
+      "patchset_id": 2268,
+      "total_chars": 2667,
+      "total_lines": 80,
+      "quoted_chars": 1432,
+      "commentary_chars": 861,
+      "commentary_words": 131,
+      "findings": 2,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 11,
+      "total_full_lines": 65
+    },
+    {
+      "patchset_id": 2227,
+      "total_chars": 2608,
+      "total_lines": 72,
+      "quoted_chars": 520,
+      "commentary_chars": 1673,
+      "commentary_words": 262,
+      "findings": 3,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 1,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 8,
+      "total_full_lines": 44
+    },
+    {
+      "patchset_id": 2219,
+      "total_chars": 3729,
+      "total_lines": 123,
+      "quoted_chars": 1190,
+      "commentary_chars": 2041,
+      "commentary_words": 256,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 4
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 91
+    },
+    {
+      "patchset_id": 2198,
+      "total_chars": 1544,
+      "total_lines": 44,
+      "quoted_chars": 881,
+      "commentary_chars": 322,
+      "commentary_words": 50,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 7
+    },
+    {
+      "patchset_id": 2144,
+      "total_chars": 2577,
+      "total_lines": 72,
+      "quoted_chars": 1346,
+      "commentary_chars": 783,
+      "commentary_words": 129,
+      "findings": 3,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 27,
+      "total_full_lines": 44
+    },
+    {
+      "patchset_id": 2142,
+      "total_chars": 3556,
+      "total_lines": 99,
+      "quoted_chars": 1849,
+      "commentary_chars": 1395,
+      "commentary_words": 206,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 30,
+      "total_full_lines": 83
+    },
+    {
+      "patchset_id": 2135,
+      "total_chars": 1947,
+      "total_lines": 60,
+      "quoted_chars": 709,
+      "commentary_chars": 916,
+      "commentary_words": 121,
+      "findings": 1,
+      "categories": {
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 41
+    },
+    {
+      "patchset_id": 2122,
+      "total_chars": 2415,
+      "total_lines": 65,
+      "quoted_chars": 1034,
+      "commentary_chars": 877,
+      "commentary_words": 118,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 46
+    },
+    {
+      "patchset_id": 2115,
+      "total_chars": 2099,
+      "total_lines": 67,
+      "quoted_chars": 639,
+      "commentary_chars": 1143,
+      "commentary_words": 140,
+      "findings": 1,
+      "categories": {
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 50
+    },
+    {
+      "patchset_id": 2113,
+      "total_chars": 3945,
+      "total_lines": 104,
+      "quoted_chars": 564,
+      "commentary_chars": 3038,
+      "commentary_words": 367,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 90
+    },
+    {
+      "patchset_id": 2112,
+      "total_chars": 1585,
+      "total_lines": 42,
+      "quoted_chars": 564,
+      "commentary_chars": 605,
+      "commentary_words": 78,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 21
+    },
+    {
+      "patchset_id": 2111,
+      "total_chars": 1834,
+      "total_lines": 49,
+      "quoted_chars": 517,
+      "commentary_chars": 939,
+      "commentary_words": 104,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 33
+    },
+    {
+      "patchset_id": 2060,
+      "total_chars": 4131,
+      "total_lines": 118,
+      "quoted_chars": 2092,
+      "commentary_chars": 1431,
+      "commentary_words": 222,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 4
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 87
+    },
+    {
+      "patchset_id": 1989,
+      "total_chars": 2980,
+      "total_lines": 73,
+      "quoted_chars": 1303,
+      "commentary_chars": 1354,
+      "commentary_words": 196,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 13,
+      "total_full_lines": 57
+    },
+    {
+      "patchset_id": 1972,
+      "total_chars": 4846,
+      "total_lines": 121,
+      "quoted_chars": 2582,
+      "commentary_chars": 1887,
+      "commentary_words": 267,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 101
+    },
+    {
+      "patchset_id": 1849,
+      "total_chars": 2898,
+      "total_lines": 78,
+      "quoted_chars": 970,
+      "commentary_chars": 1533,
+      "commentary_words": 220,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 54
+    },
+    {
+      "patchset_id": 1829,
+      "total_chars": 3600,
+      "total_lines": 94,
+      "quoted_chars": 1578,
+      "commentary_chars": 1654,
+      "commentary_words": 254,
+      "findings": 5,
+      "categories": {
+        "cat1_patch": 5
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 62
+    },
+    {
+      "patchset_id": 1814,
+      "total_chars": 4198,
+      "total_lines": 125,
+      "quoted_chars": 1734,
+      "commentary_chars": 1897,
+      "commentary_words": 292,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 4
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 65
+    },
+    {
+      "patchset_id": 1789,
+      "total_chars": 2118,
+      "total_lines": 51,
+      "quoted_chars": 986,
+      "commentary_chars": 690,
+      "commentary_words": 112,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 34
+    },
+    {
+      "patchset_id": 1765,
+      "total_chars": 1991,
+      "total_lines": 48,
+      "quoted_chars": 556,
+      "commentary_chars": 1064,
+      "commentary_words": 149,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 32
+    },
+    {
+      "patchset_id": 1761,
+      "total_chars": 2027,
+      "total_lines": 54,
+      "quoted_chars": 778,
+      "commentary_chars": 897,
+      "commentary_words": 146,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 32
+    },
+    {
+      "patchset_id": 1755,
+      "total_chars": 3502,
+      "total_lines": 95,
+      "quoted_chars": 560,
+      "commentary_chars": 2624,
+      "commentary_words": 306,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 73
+    },
+    {
+      "patchset_id": 1731,
+      "total_chars": 2317,
+      "total_lines": 63,
+      "quoted_chars": 608,
+      "commentary_chars": 1255,
+      "commentary_words": 177,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 46
+    },
+    {
+      "patchset_id": 1729,
+      "total_chars": 2282,
+      "total_lines": 69,
+      "quoted_chars": 1110,
+      "commentary_chars": 775,
+      "commentary_words": 99,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 43
+    },
+    {
+      "patchset_id": 1680,
+      "total_chars": 1470,
+      "total_lines": 39,
+      "quoted_chars": 449,
+      "commentary_chars": 700,
+      "commentary_words": 98,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 23
+    },
+    {
+      "patchset_id": 1655,
+      "total_chars": 4922,
+      "total_lines": 115,
+      "quoted_chars": 2388,
+      "commentary_chars": 2170,
+      "commentary_words": 253,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 101
+    },
+    {
+      "patchset_id": 1616,
+      "total_chars": 3564,
+      "total_lines": 97,
+      "quoted_chars": 1068,
+      "commentary_chars": 2051,
+      "commentary_words": 299,
+      "findings": 5,
+      "categories": {
+        "cat1_patch": 3,
+        "unclassified": 1,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 75
+    },
+    {
+      "patchset_id": 1599,
+      "total_chars": 2159,
+      "total_lines": 57,
+      "quoted_chars": 550,
+      "commentary_chars": 1177,
+      "commentary_words": 156,
+      "findings": 2,
+      "categories": {
+        "unclassified": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 35
+    },
+    {
+      "patchset_id": 1588,
+      "total_chars": 2379,
+      "total_lines": 59,
+      "quoted_chars": 1168,
+      "commentary_chars": 808,
+      "commentary_words": 107,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 46
+    },
+    {
+      "patchset_id": 1558,
+      "total_chars": 2253,
+      "total_lines": 59,
+      "quoted_chars": 1171,
+      "commentary_chars": 804,
+      "commentary_words": 135,
+      "findings": 3,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 2,
+      "total_full_lines": 38
+    },
+    {
+      "patchset_id": 1535,
+      "total_chars": 1321,
+      "total_lines": 36,
+      "quoted_chars": 542,
+      "commentary_chars": 467,
+      "commentary_words": 77,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 19
+    },
+    {
+      "patchset_id": 1522,
+      "total_chars": 5096,
+      "total_lines": 160,
+      "quoted_chars": 3080,
+      "commentary_chars": 1497,
+      "commentary_words": 250,
+      "findings": 5,
+      "categories": {
+        "cat1_patch": 3,
+        "cat3_preexisting": 1,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 3,
+      "total_full_lines": 82
+    },
+    {
+      "patchset_id": 1515,
+      "total_chars": 2639,
+      "total_lines": 72,
+      "quoted_chars": 1313,
+      "commentary_chars": 918,
+      "commentary_words": 118,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 52
+    },
+    {
+      "patchset_id": 1495,
+      "total_chars": 2582,
+      "total_lines": 73,
+      "quoted_chars": 1003,
+      "commentary_chars": 1276,
+      "commentary_words": 178,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 1,
+        "cat3_preexisting": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 23,
+      "total_full_lines": 58
+    },
+    {
+      "patchset_id": 1465,
+      "total_chars": 2051,
+      "total_lines": 58,
+      "quoted_chars": 892,
+      "commentary_chars": 795,
+      "commentary_words": 104,
+      "findings": 1,
+      "categories": {
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 35
+    },
+    {
+      "patchset_id": 1462,
+      "total_chars": 5395,
+      "total_lines": 150,
+      "quoted_chars": 3626,
+      "commentary_chars": 1384,
+      "commentary_words": 206,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 97
+    },
+    {
+      "patchset_id": 1442,
+      "total_chars": 1590,
+      "total_lines": 58,
+      "quoted_chars": 505,
+      "commentary_chars": 780,
+      "commentary_words": 90,
+      "findings": 1,
+      "categories": {
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 32
+    },
+    {
+      "patchset_id": 1435,
+      "total_chars": 4568,
+      "total_lines": 123,
+      "quoted_chars": 1996,
+      "commentary_chars": 2341,
+      "commentary_words": 322,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 86
+    },
+    {
+      "patchset_id": 1538,
+      "total_chars": 3751,
+      "total_lines": 108,
+      "quoted_chars": 1494,
+      "commentary_chars": 1848,
+      "commentary_words": 251,
+      "findings": 4,
+      "categories": {
+        "cat3_preexisting": 1,
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 9,
+      "total_full_lines": 89
+    },
+    {
+      "patchset_id": 1350,
+      "total_chars": 5200,
+      "total_lines": 138,
+      "quoted_chars": 2483,
+      "commentary_chars": 2314,
+      "commentary_words": 301,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 84
+    },
+    {
+      "patchset_id": 1293,
+      "total_chars": 1973,
+      "total_lines": 51,
+      "quoted_chars": 565,
+      "commentary_chars": 906,
+      "commentary_words": 124,
+      "findings": 1,
+      "categories": {
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 33
+    },
+    {
+      "patchset_id": 1247,
+      "total_chars": 3054,
+      "total_lines": 76,
+      "quoted_chars": 856,
+      "commentary_chars": 1907,
+      "commentary_words": 280,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 63
+    },
+    {
+      "patchset_id": 1131,
+      "total_chars": 2937,
+      "total_lines": 73,
+      "quoted_chars": 495,
+      "commentary_chars": 1987,
+      "commentary_words": 234,
+      "findings": 1,
+      "categories": {
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 57
+    },
+    {
+      "patchset_id": 1128,
+      "total_chars": 4046,
+      "total_lines": 113,
+      "quoted_chars": 1330,
+      "commentary_chars": 2346,
+      "commentary_words": 306,
+      "findings": 3,
+      "categories": {
+        "cat3_preexisting": 1,
+        "unclassified": 1,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 19,
+      "total_full_lines": 92
+    },
+    {
+      "patchset_id": 1098,
+      "total_chars": 2057,
+      "total_lines": 52,
+      "quoted_chars": 532,
+      "commentary_chars": 1191,
+      "commentary_words": 180,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 39
+    },
+    {
+      "patchset_id": 1088,
+      "total_chars": 3747,
+      "total_lines": 79,
+      "quoted_chars": 1928,
+      "commentary_chars": 1437,
+      "commentary_words": 196,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 55
+    },
+    {
+      "patchset_id": 1032,
+      "total_chars": 2224,
+      "total_lines": 60,
+      "quoted_chars": 909,
+      "commentary_chars": 907,
+      "commentary_words": 119,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 46
+    },
+    {
+      "patchset_id": 1141,
+      "total_chars": 4668,
+      "total_lines": 120,
+      "quoted_chars": 1359,
+      "commentary_chars": 2874,
+      "commentary_words": 390,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 104
+    },
+    {
+      "patchset_id": 957,
+      "total_chars": 2191,
+      "total_lines": 67,
+      "quoted_chars": 1242,
+      "commentary_chars": 564,
+      "commentary_words": 91,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 43
+    },
+    {
+      "patchset_id": 956,
+      "total_chars": 3049,
+      "total_lines": 84,
+      "quoted_chars": 1536,
+      "commentary_chars": 1160,
+      "commentary_words": 182,
+      "findings": 2,
+      "categories": {
+        "cat2_interaction": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 70
+    },
+    {
+      "patchset_id": 952,
+      "total_chars": 1375,
+      "total_lines": 37,
+      "quoted_chars": 362,
+      "commentary_chars": 721,
+      "commentary_words": 107,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 26
+    },
+    {
+      "patchset_id": 846,
+      "total_chars": 2288,
+      "total_lines": 61,
+      "quoted_chars": 818,
+      "commentary_chars": 1053,
+      "commentary_words": 155,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 1,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 36
+    },
+    {
+      "patchset_id": 822,
+      "total_chars": 1475,
+      "total_lines": 52,
+      "quoted_chars": 659,
+      "commentary_chars": 560,
+      "commentary_words": 93,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 35
+    },
+    {
+      "patchset_id": 778,
+      "total_chars": 3085,
+      "total_lines": 94,
+      "quoted_chars": 1269,
+      "commentary_chars": 1524,
+      "commentary_words": 212,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 63
+    },
+    {
+      "patchset_id": 747,
+      "total_chars": 3358,
+      "total_lines": 89,
+      "quoted_chars": 1431,
+      "commentary_chars": 1583,
+      "commentary_words": 206,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 55
+    },
+    {
+      "patchset_id": 745,
+      "total_chars": 2918,
+      "total_lines": 75,
+      "quoted_chars": 917,
+      "commentary_chars": 1722,
+      "commentary_words": 251,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 9,
+      "total_full_lines": 48
+    },
+    {
+      "patchset_id": 720,
+      "total_chars": 3847,
+      "total_lines": 97,
+      "quoted_chars": 1492,
+      "commentary_chars": 1912,
+      "commentary_words": 284,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 71
+    },
+    {
+      "patchset_id": 704,
+      "total_chars": 2231,
+      "total_lines": 54,
+      "quoted_chars": 865,
+      "commentary_chars": 826,
+      "commentary_words": 106,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 33
+    },
+    {
+      "patchset_id": 664,
+      "total_chars": 2812,
+      "total_lines": 68,
+      "quoted_chars": 1273,
+      "commentary_chars": 1173,
+      "commentary_words": 148,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 50
+    },
+    {
+      "patchset_id": 639,
+      "total_chars": 1453,
+      "total_lines": 44,
+      "quoted_chars": 286,
+      "commentary_chars": 699,
+      "commentary_words": 105,
+      "findings": 1,
+      "categories": {
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 28,
+      "total_full_lines": 28
+    },
+    {
+      "patchset_id": 606,
+      "total_chars": 2003,
+      "total_lines": 47,
+      "quoted_chars": 521,
+      "commentary_chars": 1131,
+      "commentary_words": 169,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 31
+    },
+    {
+      "patchset_id": 592,
+      "total_chars": 1694,
+      "total_lines": 44,
+      "quoted_chars": 341,
+      "commentary_chars": 765,
+      "commentary_words": 114,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 28
+    },
+    {
+      "patchset_id": 571,
+      "total_chars": 1622,
+      "total_lines": 45,
+      "quoted_chars": 652,
+      "commentary_chars": 586,
+      "commentary_words": 81,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 29
+    },
+    {
+      "patchset_id": 490,
+      "total_chars": 2578,
+      "total_lines": 77,
+      "quoted_chars": 743,
+      "commentary_chars": 1530,
+      "commentary_words": 229,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 51
+    },
+    {
+      "patchset_id": 461,
+      "total_chars": 3498,
+      "total_lines": 86,
+      "quoted_chars": 1023,
+      "commentary_chars": 1894,
+      "commentary_words": 272,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 1,
+        "cat2_interaction": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 66
+    },
+    {
+      "patchset_id": 447,
+      "total_chars": 3197,
+      "total_lines": 91,
+      "quoted_chars": 1023,
+      "commentary_chars": 1820,
+      "commentary_words": 256,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 66
+    },
+    {
+      "patchset_id": 430,
+      "total_chars": 3180,
+      "total_lines": 82,
+      "quoted_chars": 856,
+      "commentary_chars": 1967,
+      "commentary_words": 275,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 66
+    },
+    {
+      "patchset_id": 400,
+      "total_chars": 1623,
+      "total_lines": 38,
+      "quoted_chars": 592,
+      "commentary_chars": 672,
+      "commentary_words": 109,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 25
+    },
+    {
+      "patchset_id": 453,
+      "total_chars": 3726,
+      "total_lines": 97,
+      "quoted_chars": 1601,
+      "commentary_chars": 1723,
+      "commentary_words": 266,
+      "findings": 4,
+      "categories": {
+        "unclassified": 1,
+        "cat1_patch": 2,
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 21,
+      "total_full_lines": 79
+    },
+    {
+      "patchset_id": 352,
+      "total_chars": 2181,
+      "total_lines": 56,
+      "quoted_chars": 726,
+      "commentary_chars": 1114,
+      "commentary_words": 155,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 37
+    },
+    {
+      "patchset_id": 212,
+      "total_chars": 3099,
+      "total_lines": 70,
+      "quoted_chars": 1461,
+      "commentary_chars": 1295,
+      "commentary_words": 195,
+      "findings": 3,
+      "categories": {
+        "unclassified": 2,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 45
+    },
+    {
+      "patchset_id": 211,
+      "total_chars": 3860,
+      "total_lines": 96,
+      "quoted_chars": 2218,
+      "commentary_chars": 1395,
+      "commentary_words": 218,
+      "findings": 4,
+      "categories": {
+        "cat1_patch": 2,
+        "cat3_preexisting": 1,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 11,
+      "total_full_lines": 64
+    },
+    {
+      "patchset_id": 210,
+      "total_chars": 1836,
+      "total_lines": 45,
+      "quoted_chars": 1065,
+      "commentary_chars": 544,
+      "commentary_words": 80,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 27
+    },
+    {
+      "patchset_id": 209,
+      "total_chars": 3803,
+      "total_lines": 87,
+      "quoted_chars": 2008,
+      "commentary_chars": 1518,
+      "commentary_words": 232,
+      "findings": 5,
+      "categories": {
+        "cat1_patch": 2,
+        "cat2_interaction": 2,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 62
+    },
+    {
+      "patchset_id": 208,
+      "total_chars": 5320,
+      "total_lines": 143,
+      "quoted_chars": 3471,
+      "commentary_chars": 1582,
+      "commentary_words": 225,
+      "findings": 6,
+      "categories": {
+        "unclassified": 3,
+        "cat1_patch": 2,
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 13,
+      "total_full_lines": 116
+    },
+    {
+      "patchset_id": 207,
+      "total_chars": 2835,
+      "total_lines": 70,
+      "quoted_chars": 1663,
+      "commentary_chars": 843,
+      "commentary_words": 116,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 40
+    },
+    {
+      "patchset_id": 206,
+      "total_chars": 1994,
+      "total_lines": 61,
+      "quoted_chars": 925,
+      "commentary_chars": 781,
+      "commentary_words": 107,
+      "findings": 3,
+      "categories": {
+        "unclassified": 1,
+        "cat3_preexisting": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 8,
+      "total_full_lines": 27
+    },
+    {
+      "patchset_id": 172,
+      "total_chars": 1247,
+      "total_lines": 37,
+      "quoted_chars": 456,
+      "commentary_chars": 461,
+      "commentary_words": 63,
+      "findings": 1,
+      "categories": {
+        "unclassified": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 22
+    },
+    {
+      "patchset_id": 165,
+      "total_chars": 1243,
+      "total_lines": 48,
+      "quoted_chars": 609,
+      "commentary_chars": 366,
+      "commentary_words": 61,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 28
+    },
+    {
+      "patchset_id": 147,
+      "total_chars": 2616,
+      "total_lines": 71,
+      "quoted_chars": 757,
+      "commentary_chars": 1484,
+      "commentary_words": 205,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 2,
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 26,
+      "total_full_lines": 55
+    },
+    {
+      "patchset_id": 96,
+      "total_chars": 3934,
+      "total_lines": 100,
+      "quoted_chars": 2061,
+      "commentary_chars": 1528,
+      "commentary_words": 220,
+      "findings": 5,
+      "categories": {
+        "cat1_patch": 3,
+        "unclassified": 2
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 80
+    },
+    {
+      "patchset_id": 95,
+      "total_chars": 5459,
+      "total_lines": 179,
+      "quoted_chars": 2850,
+      "commentary_chars": 1940,
+      "commentary_words": 302,
+      "findings": 6,
+      "categories": {
+        "cat1_patch": 5,
+        "cat3_preexisting": 1
+      },
+      "cat3_full_lines": 6,
+      "total_full_lines": 88
+    },
+    {
+      "patchset_id": 85,
+      "total_chars": 2224,
+      "total_lines": 73,
+      "quoted_chars": 1147,
+      "commentary_chars": 777,
+      "commentary_words": 116,
+      "findings": 1,
+      "categories": {
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 19
+    },
+    {
+      "patchset_id": 67,
+      "total_chars": 3140,
+      "total_lines": 89,
+      "quoted_chars": 1180,
+      "commentary_chars": 1610,
+      "commentary_words": 251,
+      "findings": 3,
+      "categories": {
+        "cat1_patch": 3
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 61
+    },
+    {
+      "patchset_id": 64,
+      "total_chars": 1860,
+      "total_lines": 48,
+      "quoted_chars": 416,
+      "commentary_chars": 1073,
+      "commentary_words": 159,
+      "findings": 2,
+      "categories": {
+        "cat1_patch": 1,
+        "cat2_interaction": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 34
+    },
+    {
+      "patchset_id": 5,
+      "total_chars": 2849,
+      "total_lines": 77,
+      "quoted_chars": 758,
+      "commentary_chars": 1732,
+      "commentary_words": 261,
+      "findings": 2,
+      "categories": {
+        "unclassified": 1,
+        "cat1_patch": 1
+      },
+      "cat3_full_lines": 0,
+      "total_full_lines": 51
+    }
+  ]
+}
